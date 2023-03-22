@@ -1,2 +1,2 @@
 # Programs
-This is for sharing your programs 
+This is for sharing your programs and ideas
