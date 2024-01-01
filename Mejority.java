@@ -2,8 +2,6 @@
 //Initial Template for Java
 
 import java.util.*;
-import java.io.*;
-import java.lang.*;
 
 class Mejority
 {
@@ -30,7 +28,7 @@ class Mejority
 //User function Template for Java
 
 class Solution {
-    static int majorityElement(int a[], int size) {
+    int majorityElement(int a[], int size) {
         int tmp = -1;
         int tm = 0;
         int m = 0;

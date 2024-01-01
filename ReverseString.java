@@ -1,10 +1,8 @@
 //{ Driver Code Starts
 //Initial Template for Java
 
-import java.lang.reflect.Array;
 import java.util.*;
 import java.io.*;
-import java.lang.*;
 
 class ReverseString
 {
@@ -20,17 +18,12 @@ class ReverseString
         }
     }
 }
-// } Driver Code Ends
-
-
-//User function Template for Java
-
 
 class Reverse
 {
     // Complete the function
     // str: input string
-    public static String reverseWord(String str)
+    public String reverseWord(String str)
     {
         // Reverse the string str
         ArrayList <String> arr = new ArrayList<>();
