@@ -4,4 +4,4 @@ This Repo is Created by Rupesh Powar.
 
 This just for learning purpose repository.
 
-currently consists of only *C,Java and Javascript*
+currently consists of only *C, Java, Javascript and Go lang*
